@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/MattJM1007/Product-Preview-Card-Challenge)
+- [Live Site URL](https://mattjm1007.github.io/Product-Preview-Card-Challenge/)
 
 ## My process
 
